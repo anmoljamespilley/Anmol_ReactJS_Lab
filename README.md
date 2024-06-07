@@ -59,6 +59,10 @@ This project is a digital solution to manage shared expenses for individuals liv
     ```bash
     npm start
     ```
+5. Optional, if the app shows error related to DOM, try installing it, then run the app again:
+   ```bash
+   npm install react-dom
+   ```
 
 ## Usage
 1. **Viewing Expenses**: Navigate to the homepage to see a list of all recorded expenses.
