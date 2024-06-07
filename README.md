@@ -69,8 +69,8 @@ This project adheres to industry-standard coding practices, including:
 2. **Data Retrieval**: Efficiently fetches and displays data from the JSON server.
 3. **Responsive Design and Coding Standards**: The application is responsive and adheres to coding standards, including the use of React Router for navigation.
 
-## Contribution
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+## Contributors
+- [Anmol James Pilley](https://github.com/anmoljamespilley)
 
 ---
 
@@ -80,10 +80,10 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Screenshots
 
-![Expense List](screenshots/Home Page.png)
+![Expense List](https://github.com/anmoljamespilley/Anmol_ReactJS_Lab/blob/main/Screenshots/Home%20Page.png)
 *Description: The main view displaying all recorded expenses.*
 
-![Add Expense Form](screenshots/Form.png)
+![Add Expense Form](https://github.com/anmoljamespilley/Anmol_ReactJS_Lab/blob/main/Screenshots/Form.png)
 *Description: The form used to add new expenses.*
 
 ## Acknowledgments
