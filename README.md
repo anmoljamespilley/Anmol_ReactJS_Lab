@@ -80,10 +80,10 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Screenshots
 
-![Expense List](screenshots/expense-list.png)
+![Expense List](screenshots/Home Page.png)
 *Description: The main view displaying all recorded expenses.*
 
-![Add Expense Form](screenshots/add-expense-form.png)
+![Add Expense Form](screenshots/Form.png)
 *Description: The form used to add new expenses.*
 
 ## Acknowledgments
