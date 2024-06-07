@@ -30,7 +30,7 @@ This project is a digital solution to manage shared expenses for individuals liv
 1. Clone the repository:
     ```bash
     git clone https://github.com/anmoljamespilley/Anmol_ReactJS_Lab.git
-    cd flat-sharing-expense-manager
+    cd Expense Tracker
     ```
 2. Install the dependencies (client folder):
     ```bash
