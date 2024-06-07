@@ -15,6 +15,18 @@ This project is a digital solution to manage shared expenses for individuals liv
     - Calculates and displays the settlement amount between the two individuals.
 5. **React Router**: Separate views for the expense list and the form to add new items.
 
+---
+
+## Screenshots
+
+![Expense List](https://github.com/anmoljamespilley/Anmol_ReactJS_Lab/blob/main/Screenshots/Home%20Page.png)
+*Description: The main view displaying all recorded expenses.*
+
+![Add Expense Form](https://github.com/anmoljamespilley/Anmol_ReactJS_Lab/blob/main/Screenshots/Form.png)
+*Description: The form used to add new expenses.*
+
+---
+
 ## Future Developments
 - Filter data by month.
 - Restrict date entries to the current month.
@@ -77,14 +89,6 @@ This project adheres to industry-standard coding practices, including:
 **Note**: This project is a simple demonstration for managing shared expenses and may require additional features and security enhancements for production use.
 
 ---
-
-## Screenshots
-
-![Expense List](https://github.com/anmoljamespilley/Anmol_ReactJS_Lab/blob/main/Screenshots/Home%20Page.png)
-*Description: The main view displaying all recorded expenses.*
-
-![Add Expense Form](https://github.com/anmoljamespilley/Anmol_ReactJS_Lab/blob/main/Screenshots/Form.png)
-*Description: The form used to add new expenses.*
 
 ## Acknowledgments
 - Thanks to the open-source community for the tools and libraries that made this project possible.
